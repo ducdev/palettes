@@ -4,7 +4,7 @@
 
 1. Fork this repo
 
-2. Create a new markdown file in `/palettes` following this structure:
+2. Create a new markdown file in `/palette` following this structure:
 
 ```
 ---
