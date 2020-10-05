@@ -1,14 +1,14 @@
 backend:
-  name: ducdev/palettes
+  name: github
+  repo: ducdev/palettes
 media_folder: static/assets
 public_folder: /assets
 collections:
-  - name: blog
-    label: Blog
-    folder: blog
+  - name: palette
+    label: Palette
+    folder: palette
     create: true
     fields:
-      - { name: path, label: Path }
-      - { name: date, label: Date, widget: datetime }
-      - { name: title, label: Title }
-      - { name: body, label: Body, widget: markdown }
+      - { name: id, label: ID, widget: ncw-id}
+      - { name: colors, label: Colors, widget: list, default: [] }
+      - { name: liked, label: Liked, widget: hidden, default: 0 }
