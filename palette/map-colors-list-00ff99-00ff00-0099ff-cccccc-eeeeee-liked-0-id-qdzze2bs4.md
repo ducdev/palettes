@@ -5,6 +5,6 @@ colors:
   - 00ff00
   - 0099ff
   - cccccc
-  - eeeeee
+  - eeeccc
 liked: 0
 ---
