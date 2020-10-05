@@ -1,5 +1,5 @@
 backend:
-  name: test-repo
+  name: ducdev/palettes
 media_folder: static/assets
 public_folder: /assets
 collections:
