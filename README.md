@@ -8,12 +8,12 @@
 
 ```
 ---
-id: QDzzE2bs4
+id: 76qLZe0YP
 colors:
-  - 00ff99
-  - 00ff00
-  - 0099ff
-  - cccccc
+  - f8efd4
+  - edc988
+  - d7385e
+  - 132743
 liked: 0
 ---
 ```
@@ -24,7 +24,9 @@ liked: 0
 
 `liked:` should be 0 by default, people can send likes to their favorite palettes later.
 
-Create the file name following this structure: map-colors-list-**00ff99**-**00ff00**-**0099ff**-**cccccc**-liked-0-id-**qdzze2bs4**.md
+Create the file name following this structure:
+
+map-colors-list-**f8efd4**-**edc988**-**d7385e**-**132743**-liked-0-id-**76qlze0yp**.md
 
 They are colors and unique ID all in lowercase.
 
