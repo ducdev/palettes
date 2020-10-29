@@ -5,6 +5,9 @@ import styled from "styled-components"
 const PaletteList = styled.div`
   display: grid;
   grid-template-columns: repeat(4, 1fr);
+  ul {
+    list-style-type: none;
+  }
 `
 
 export default function Index({
